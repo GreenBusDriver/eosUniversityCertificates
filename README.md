@@ -1,2 +1,10 @@
-# eosUniversityCertificates
-EOS contract sample app
+# first
+
+This example is to demonstrate a basic EOSIO smart contract, including
+
+- Define contract actions
+- Define a table
+- Perform read/write/remove operations on the table
+
+## Use Case
+What might it look like to log university certificates to the blockchain?
